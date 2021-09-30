@@ -15,7 +15,7 @@
 
 
 
-#Table of Content
+## Table of Content
 
 1 system setup
 
@@ -25,7 +25,7 @@
 
 4 Cleaning dataset
 
-# heading
+# Heading
 
 3.1 EDA per dataframe
 
