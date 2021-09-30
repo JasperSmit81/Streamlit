@@ -46,6 +46,6 @@
 Python Jupytor Notebook
 
 
-Authors
+## Authors
 
 **Esra Weijenberg, Jasper Smit, Gian van Veen, Romario Thiel**
